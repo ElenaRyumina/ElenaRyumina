@@ -49,7 +49,7 @@
 
 <p>
     <a href="https://github.com/ElenaRyumina/ElenaRyumina/blob/master/certificates/NEUCOM.pdf">
-        <img src="https://img.shields.io/badge/Neurocomputing-2-EFE30E?&style=flat-square" alt="Reviewing Badge" />
+        <img src="https://img.shields.io/badge/Neurocomputing-3-EFE30E?&style=flat-square" alt="Reviewing Badge" />
     </a>
 </p>
 
