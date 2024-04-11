@@ -1,7 +1,6 @@
 [![ElenaRyumina](https://readme-typing-svg.demolab.com?font=Roboto&duration=1500&pause=100&color=3081F7&vCenter=true&multiline=true&width=435&height=70&lines=Elena+Ryumina;Artificial+Intelligence+Researcher)](https://github.com/ElenaRyumina)
 
 <p>
-
 <a href="https://www.webofscience.com/wos/author/record/ABY-9103-2022" style="margin-right: 6px;">
     <img src="https://img.shields.io/badge/Web%20of%20Science-5D34BF??&style=flat-square&logo=clarivate&logoColor=white" alt="" />
 </a>
@@ -24,9 +23,10 @@
 <a href="mailto:ryumina_ev@mail.ru">
     <img src="https://img.shields.io/badge/-Email-red?style=flat-square&logo=gmail&logoColor=white" alt="" />
 </a>
-<br />
-<img src="https://komarev.com/ghpvc/?username=ElenaRyumina&style=flat-square" alt="" />
+</p>
 
+<p>
+<img src="https://komarev.com/ghpvc/?username=ElenaRyumina&style=flat-square" alt="" />
 </p>
 
 ---
