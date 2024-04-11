@@ -2,10 +2,9 @@
 
 <p>
 
-<!-- <a href="">
-    <img src="https://img.shields.io/badge/Homepage-blue??&style=flat-square&logo=google-chrome&logoColor=white">
-</a> -->
-
+<a href="https://www.webofscience.com/wos/author/record/ABY-9103-2022" style="margin-right: 6px;">
+    <img src="https://img.shields.io/badge/Web%20of%20Science-5D34BF??&style=flat-square&logo=clarivate&logoColor=white" alt="" />
+</a>
 <a href="https://www.scopus.com/authid/detail.uri?authorId=57220572427">
     <img src="https://img.shields.io/badge/Scopus-%23E9711C.svg?&style=flat-square&logo=scopus&logoColor=white" alt="" />
 </a>
@@ -16,8 +15,14 @@
     <img src="https://img.shields.io/badge/ORCID-0000--0002--4135--6949-green.svg?&style=flat-square&logo=orcid&logoColor=white" alt="" />
 </a>
 <br />
+<a href="https://huggingface.co/ElenaRyumina">
+    <img src="https://img.shields.io/badge/🤗-Hugging%20Face-FFD21F.svg?style=flat-square&&logoColor=white" alt="" />
+</a>
 <a href="https://github.com/ElenaRyumina">
     <img src="https://github-stats-alpha.vercel.app/api?username=ElenaRyumina&cc=3081F7&tc=FFFFFF&ic=FFFFFF&bc=FFFFFF" alt="" />
+</a>
+<a href="mailto:ryumina_ev@mail.ru">
+    <img src="https://img.shields.io/badge/-Email-red?style=flat-square&logo=gmail&logoColor=white" alt="" />
 </a>
 <br />
 <img src="https://komarev.com/ghpvc/?username=ElenaRyumina&style=flat-square" alt="" />
@@ -36,6 +41,7 @@
 
 #### Conferences
 
+- ``CVPRW 2024`` [Zero-Shot Audio-Visual Compound Expression Recognition Method based on Emotion Probability Fusion](https://elenaryumina.github.io/AVCER/), Elena Ryumina, Maxim Markitantov, **Dmitry Ryumin**, Heysem Kaya, Alexey Karpov (accepted)
 - ``INTERSPEECH 2023`` [Multimodal Personality Traits Assessment (MuPTA) Corpus: the Impact of Spontaneous and Read Speech](https://www.isca-speech.org/archive/interspeech_2023/ryumina23_interspeech.html), **Elena Ryumina**, Dmitry Ryumin, Maxim Markitantov, Heysem Kaya, and Alexey Karpov
 - ``INTERSPEECH 2022`` [Biometric Russian Audio-Visual Extended MASKS (BRAVE-MASKS) Corpus: Multimodal Mask Type Recognition Task](https://www.isca-speech.org/archive/interspeech_2022/markitantov22_interspeech.html), Maxim Markitantov, **Elena Ryumina**, Dmitry Ryumin, and Alexey Karpov
 - ``INTERSPEECH 2021`` [Annotation Confidence vs. Training Sample Size: Trade-Off Solution for Partially-Continuous Categorical Emotion Recognition](https://www.isca-speech.org/archive/interspeech_2021/ryumina21_interspeech.html), **Elena Ryumina**, Oxana Verkholyak, and Alexey Karpov
