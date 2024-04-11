@@ -23,10 +23,10 @@
 <a href="mailto:ryumina_ev@mail.ru">
     <img src="https://img.shields.io/badge/-Email-red?style=flat-square&logo=gmail&logoColor=white" alt="" />
 </a>
+<br />
+<a href="https://github.com/ElenaRyumina">
+    <img src="https://github-stats-alpha.vercel.app/api?username=ElenaRyumina&cc=3081F7&tc=FFFFFF&ic=FFFFFF&bc=FFFFFF" alt="" />
 </div>
-
-<br />
-<br />
 
 <div>
 <img src="https://komarev.com/ghpvc/?username=ElenaRyumina&style=flat-square" alt="" />
