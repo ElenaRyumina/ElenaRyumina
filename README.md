@@ -57,6 +57,10 @@
     <a href="https://github.com/ElenaRyumina/ElenaRyumina/blob/master/certificates/NEUCOM.pdf">
         <img src="https://img.shields.io/badge/Neurocomputing-3-EFE30E?&style=flat-square" alt="Reviewing Badge" />
     </a>
+    <br />
+    <a href="https://github.com/ElenaRyumina/ElenaRyumina/blob/master/certificates/ESWA.pdf">
+        <img src="https://img.shields.io/badge/Expert%20Systems%20with%20Applications-1-045877?&style=flat-square" alt="Reviewing Badge" />
+    </a>
 </p>
 
 <br />
