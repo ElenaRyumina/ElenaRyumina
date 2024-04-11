@@ -17,9 +17,6 @@
 <a href="https://huggingface.co/ElenaRyumina">
     <img src="https://img.shields.io/badge/🤗-Hugging%20Face-FFD21F.svg?style=flat-square&&logoColor=white" alt="" />
 </a>
-<a href="https://github.com/ElenaRyumina">
-    <img src="https://github-stats-alpha.vercel.app/api?username=ElenaRyumina&cc=3081F7&tc=FFFFFF&ic=FFFFFF&bc=FFFFFF" alt="" />
-</a>
 <a href="mailto:ryumina_ev@mail.ru">
     <img src="https://img.shields.io/badge/-Email-red?style=flat-square&logo=gmail&logoColor=white" alt="" />
 </a>
