@@ -42,7 +42,7 @@
 
 #### Conferences
 
-- ``CVPRW 2024`` [Zero-Shot Audio-Visual Compound Expression Recognition Method based on Emotion Probability Fusion](https://elenaryumina.github.io/AVCER/), **Elena Ryumina**, Maxim Markitantov, Dmitry Ryumin, Heysem Kaya, Alexey Karpov (accepted)
+- ``CVPRW 2024`` [Zero-Shot Audio-Visual Compound Expression Recognition Method based on Emotion Probability Fusion](https://elenaryumina.github.io/AVCER/), **Elena Ryumina**, Maxim Markitantov, Dmitry Ryumin, Heysem Kaya, Alexey Karpov (accepted) [![GitHub](https://img.shields.io/github/stars/ElenaRyumina/AVCER?style=flat)](https://github.com/ElenaRyumina/AVCER)[![App](https://img.shields.io/badge/🤗-DEMO--Facial%20Expressions%20Recognition-FFD21F.svg)](https://huggingface.co/spaces/ElenaRyumina/AVCER)
 - ``INTERSPEECH 2023`` [Multimodal Personality Traits Assessment (MuPTA) Corpus: the Impact of Spontaneous and Read Speech](https://www.isca-speech.org/archive/interspeech_2023/ryumina23_interspeech.html), **Elena Ryumina**, Dmitry Ryumin, Maxim Markitantov, Heysem Kaya, and Alexey Karpov
 - ``INTERSPEECH 2022`` [Biometric Russian Audio-Visual Extended MASKS (BRAVE-MASKS) Corpus: Multimodal Mask Type Recognition Task](https://www.isca-speech.org/archive/interspeech_2022/markitantov22_interspeech.html), Maxim Markitantov, **Elena Ryumina**, Dmitry Ryumin, and Alexey Karpov
 - ``INTERSPEECH 2021`` [Annotation Confidence vs. Training Sample Size: Trade-Off Solution for Partially-Continuous Categorical Emotion Recognition](https://www.isca-speech.org/archive/interspeech_2021/ryumina21_interspeech.html), **Elena Ryumina**, Oxana Verkholyak, and Alexey Karpov
