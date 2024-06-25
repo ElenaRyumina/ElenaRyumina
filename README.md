@@ -42,7 +42,7 @@
 
 #### Conferences
 
-- ``CVPRW 2024`` [Zero-Shot Audio-Visual Compound Expression Recognition Method based on Emotion Probability Fusion](https://elenaryumina.github.io/AVCER/), **Elena Ryumina**, Maxim Markitantov, Dmitry Ryumin, Heysem Kaya, Alexey Karpov (accepted) [![GitHub](https://img.shields.io/github/stars/ElenaRyumina/AVCER?style=flat)](https://github.com/ElenaRyumina/AVCER)[![App](https://img.shields.io/badge/🤗-DEMO--AVCER-FFD21F.svg)](https://huggingface.co/spaces/ElenaRyumina/AVCER)
+- ``CVPRW 2024`` [Zero-Shot Audio-Visual Compound Expression Recognition Method based on Emotion Probability Fusion]([https://elenaryumina.github.io/AVCER/](https://openaccess.thecvf.com/content/CVPR2024W/ABAW/html/Ryumina_Zero-Shot_Audio-Visual_Compound_Expression_Recognition_Method_based_on_Emotion_Probability_CVPRW_2024_paper.html)), **Elena Ryumina**, Maxim Markitantov, Dmitry Ryumin, Heysem Kaya, Alexey Karpov [![GitHub](https://img.shields.io/github/stars/ElenaRyumina/AVCER?style=flat)](https://github.com/ElenaRyumina/AVCER)[![App](https://img.shields.io/badge/🤗-DEMO--AVCER-FFD21F.svg)](https://huggingface.co/spaces/ElenaRyumina/AVCER)
 - ``INTERSPEECH 2023`` [Multimodal Personality Traits Assessment (MuPTA) Corpus: the Impact of Spontaneous and Read Speech](https://www.isca-speech.org/archive/interspeech_2023/ryumina23_interspeech.html), **Elena Ryumina**, Dmitry Ryumin, Maxim Markitantov, Heysem Kaya, and Alexey Karpov
 - ``INTERSPEECH 2022`` [Biometric Russian Audio-Visual Extended MASKS (BRAVE-MASKS) Corpus: Multimodal Mask Type Recognition Task](https://www.isca-speech.org/archive/interspeech_2022/markitantov22_interspeech.html), Maxim Markitantov, **Elena Ryumina**, Dmitry Ryumin, and Alexey Karpov
 - ``INTERSPEECH 2021`` [Annotation Confidence vs. Training Sample Size: Trade-Off Solution for Partially-Continuous Categorical Emotion Recognition](https://www.isca-speech.org/archive/interspeech_2021/ryumina21_interspeech.html), **Elena Ryumina**, Oxana Verkholyak, and Alexey Karpov
@@ -56,7 +56,7 @@
 
 <p>
     <a href="https://github.com/ElenaRyumina/ElenaRyumina/blob/master/certificates/ESWA.pdf">
-        <img src="https://img.shields.io/badge/Expert%20Systems%20with%20Applications-4-045877?&style=flat-square" alt="Reviewing Badge" />
+        <img src="https://img.shields.io/badge/Expert%20Systems%20with%20Applications-5-045877?&style=flat-square" alt="Reviewing Badge" />
     </a>
     <br />
     <a href="https://github.com/ElenaRyumina/ElenaRyumina/blob/master/certificates/NEUCOM.pdf">
@@ -65,6 +65,14 @@
     <br />
     <a href="https://github.com/ElenaRyumina/ElenaRyumina/blob/master/certificates/NN.pdf">
         <img src="https://img.shields.io/badge/Neural%20Networks-2-1E3887?&style=flat-square" alt="Reviewing Badge" />
+    </a>
+    <br />
+    <a href="https://github.com/ElenaRyumina/ElenaRyumina/blob/master/certificates/PR.pdf">
+        <img src="https://img.shields.io/badge/Pattern%20Recognition-1-E87324?&style=flat-square" alt="Reviewing Badge" />
+    </a>
+    <br />
+    <a href="https://github.com/ElenaRyumina/ElenaRyumina/blob/master/certificates/YCVIU.pdf">
+        <img src="https://img.shields.io/badge/Computer%20Vision%20and%20Image%20Understanding-1-8A6734?&style=flat-square" alt="Reviewing Badge" />
     </a>
 </p>
 
