@@ -57,7 +57,7 @@
 
 <p>
     <a href="https://github.com/ElenaRyumina/ElenaRyumina/blob/master/certificates/ESWA.pdf">
-        <img src="https://img.shields.io/badge/Expert%20Systems%20with%20Applications-5-045877?&style=flat-square" alt="Reviewing Badge" />
+        <img src="https://img.shields.io/badge/Expert%20Systems%20with%20Applications-7-045877?&style=flat-square" alt="Reviewing Badge" />
     </a>
     <br />
     <a href="https://github.com/ElenaRyumina/ElenaRyumina/blob/master/certificates/NEUCOM.pdf">
@@ -65,15 +65,27 @@
     </a>
     <br />
     <a href="https://github.com/ElenaRyumina/ElenaRyumina/blob/master/certificates/NN.pdf">
-        <img src="https://img.shields.io/badge/Neural%20Networks-2-1E3887?&style=flat-square" alt="Reviewing Badge" />
+        <img src="https://img.shields.io/badge/Neural%20Networks-3-1E3887?&style=flat-square" alt="Reviewing Badge" />
     </a>
     <br />
-    <a href="https://github.com/ElenaRyumina/ElenaRyumina/blob/master/certificates/PR.pdf">
-        <img src="https://img.shields.io/badge/Pattern%20Recognition-1-E87324?&style=flat-square" alt="Reviewing Badge" />
-    </a>
     <br />
     <a href="https://github.com/ElenaRyumina/ElenaRyumina/blob/master/certificates/YCVIU.pdf">
-        <img src="https://img.shields.io/badge/Computer%20Vision%20and%20Image%20Understanding-1-8A6734?&style=flat-square" alt="Reviewing Badge" />
+        <img src="https://img.shields.io/badge/Computer%20Vision%20and%20Image%20Understanding-3-8A6734?&style=flat-square" alt="Reviewing Badge" />
+    </a>
+    <a href="https://github.com/ElenaRyumina/ElenaRyumina/blob/master/certificates/PR.pdf">
+        <img src="https://img.shields.io/badge/Pattern%20Recognition-2-E87324?&style=flat-square" alt="Reviewing Badge" />
+    </a>
+    <br />
+    <a href="https://github.com/ElenaRyumina/DmitryRyumin/blob/master/certificates/PATREC.pdf">
+        <img src="https://img.shields.io/badge/Pattern%20Recognition%20Letters-1-000000?&style=flat-square" alt="Reviewing Badge" />
+    </a>
+</p>
+
+#### Conference Reviewing
+
+<p>
+    <a href="https://specom2024.ftn.uns.ac.rs/">
+        <img src="http://img.shields.io/badge/SPECOM-2024-FDD944.svg?&style=flat-square" alt="SPECOM">
     </a>
 </p>
 
