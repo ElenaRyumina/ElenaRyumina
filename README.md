@@ -68,10 +68,10 @@
         <img src="https://img.shields.io/badge/Neural%20Networks-3-1E3887?&style=flat-square" alt="Reviewing Badge" />
     </a>
     <br />
-    <br />
     <a href="https://github.com/ElenaRyumina/ElenaRyumina/blob/master/certificates/YCVIU.pdf">
         <img src="https://img.shields.io/badge/Computer%20Vision%20and%20Image%20Understanding-3-8A6734?&style=flat-square" alt="Reviewing Badge" />
     </a>
+    <br />
     <a href="https://github.com/ElenaRyumina/ElenaRyumina/blob/master/certificates/PR.pdf">
         <img src="https://img.shields.io/badge/Pattern%20Recognition-2-E87324?&style=flat-square" alt="Reviewing Badge" />
     </a>
