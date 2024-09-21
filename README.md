@@ -77,7 +77,7 @@
         <img src="https://img.shields.io/badge/Pattern%20Recognition-2-E87324?&style=flat-square" alt="Reviewing Badge" />
     </a>
     <br />
-    <a href="https://github.com/ElenaRyumina/DmitryRyumin/blob/master/certificates/PATREC.pdf">
+    <a href="https://github.com/ElenaRyumina/ElenaRyumina/blob/master/certificates/PATREC.pdf">
         <img src="https://img.shields.io/badge/Pattern%20Recognition%20Letters-1-000000?&style=flat-square" alt="Reviewing Badge" />
     </a>
 </p>
