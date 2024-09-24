@@ -58,7 +58,7 @@
 
 <p>
     <a href="https://github.com/ElenaRyumina/ElenaRyumina/blob/master/certificates/ESWA.pdf">
-        <img src="https://img.shields.io/badge/Expert%20Systems%20with%20Applications-7-045877?&style=flat-square" alt="Reviewing Badge" />
+        <img src="https://img.shields.io/badge/Expert%20Systems%20with%20Applications-8-045877?&style=flat-square" alt="Reviewing Badge" />
     </a>
     <br />
     <a href="https://github.com/ElenaRyumina/ElenaRyumina/blob/master/certificates/NEUCOM.pdf">
