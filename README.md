@@ -80,6 +80,14 @@
     <a href="https://github.com/ElenaRyumina/ElenaRyumina/blob/master/certificates/PATREC.pdf">
         <img src="https://img.shields.io/badge/Pattern%20Recognition%20Letters-3-000000?&style=flat-square" alt="Reviewing Badge" />
     </a>
+    <br />
+    <a href="https://www.webofscience.com/wos/author/record/ABY-9103-2022">
+        <img src="https://img.shields.io/badge/IEEE%20Transactions%20on%20Affective%20Computing-2-14303E?&style=flat-square" alt="Reviewing Badge" />
+    </a>
+    <br />
+    <a href="https://www.webofscience.com/wos/author/record/ABY-9103-2022">
+        <img src="https://img.shields.io/badge/IEEE%20Access-2-0073AE?&style=flat-square" alt="Reviewing Badge" />
+    </a>
 </p>
 
 #### Conference Reviewing
