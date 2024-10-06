@@ -69,6 +69,10 @@
         <img src="https://img.shields.io/badge/Pattern%20Recognition-5-E87324?&style=flat-square" alt="Reviewing Badge" />
     </a>
     <br />
+    <a href="https://github.com/ElenaRyumina/ElenaRyumina/blob/master/certificates/KNOSYS.pdf">
+        <img src="https://img.shields.io/badge/Knowledge--Based%20Systems-2-EFE30E?&style=flat-square" alt="Reviewing Badge" />
+    </a>
+    <br />
     <a href="https://github.com/ElenaRyumina/ElenaRyumina/blob/master/certificates/NEUCOM.pdf">
         <img src="https://img.shields.io/badge/Neurocomputing-3-EFE30E?&style=flat-square" alt="Reviewing Badge" />
     </a>
