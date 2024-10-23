@@ -69,12 +69,8 @@
         <img src="https://img.shields.io/badge/Pattern%20Recognition-5-E87324?&style=flat-square" alt="Reviewing Badge" />
     </a>
     <br />
-    <a href="https://github.com/ElenaRyumina/ElenaRyumina/blob/master/certificates/KNOSYS.pdf">
-        <img src="https://img.shields.io/badge/Knowledge--Based%20Systems-2-EFE30E?&style=flat-square" alt="Reviewing Badge" />
-    </a>
-    <br />
     <a href="https://github.com/ElenaRyumina/ElenaRyumina/blob/master/certificates/NEUCOM.pdf">
-        <img src="https://img.shields.io/badge/Neurocomputing-3-EFE30E?&style=flat-square" alt="Reviewing Badge" />
+        <img src="https://img.shields.io/badge/Neurocomputing-4-EFE30E?&style=flat-square" alt="Reviewing Badge" />
     </a>
     <br />
     <a href="https://github.com/ElenaRyumina/ElenaRyumina/blob/master/certificates/YCVIU.pdf">
@@ -83,6 +79,10 @@
     <br />
     <a href="https://github.com/ElenaRyumina/ElenaRyumina/blob/master/certificates/PATREC.pdf">
         <img src="https://img.shields.io/badge/Pattern%20Recognition%20Letters-3-000000?&style=flat-square" alt="Reviewing Badge" />
+    </a>
+    <br />
+    <a href="https://github.com/ElenaRyumina/ElenaRyumina/blob/master/certificates/KNOSYS.pdf">
+        <img src="https://img.shields.io/badge/Knowledge--Based%20Systems-2-EFE30E?&style=flat-square" alt="Reviewing Badge" />
     </a>
     <br />
     <a href="https://orcid.org/my-orcid?orcid=0000-0002-4135-6949">
