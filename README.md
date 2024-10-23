@@ -61,12 +61,12 @@
         <img src="https://img.shields.io/badge/Expert%20Systems%20with%20Applications-9-045877?&style=flat-square" alt="Reviewing Badge" />
     </a>
     <br />
-    <a href="https://github.com/ElenaRyumina/ElenaRyumina/blob/master/certificates/NN.pdf">
-        <img src="https://img.shields.io/badge/Neural%20Networks-5-1E3887?&style=flat-square" alt="Reviewing Badge" />
+    <a href="https://github.com/ElenaRyumina/ElenaRyumina/blob/master/certificates/PR.pdf">
+        <img src="https://img.shields.io/badge/Pattern%20Recognition-6-E87324?&style=flat-square" alt="Reviewing Badge" />
     </a>
     <br />
-    <a href="https://github.com/ElenaRyumina/ElenaRyumina/blob/master/certificates/PR.pdf">
-        <img src="https://img.shields.io/badge/Pattern%20Recognition-5-E87324?&style=flat-square" alt="Reviewing Badge" />
+    <a href="https://github.com/ElenaRyumina/ElenaRyumina/blob/master/certificates/NN.pdf">
+        <img src="https://img.shields.io/badge/Neural%20Networks-5-1E3887?&style=flat-square" alt="Reviewing Badge" />
     </a>
     <br />
     <a href="https://github.com/ElenaRyumina/ElenaRyumina/blob/master/certificates/NEUCOM.pdf">
