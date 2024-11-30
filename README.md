@@ -65,6 +65,10 @@
         <img src="https://img.shields.io/badge/Pattern%20Recognition-7-E87324?&style=flat-square" alt="Reviewing Badge" />
     </a>
     <br />
+    <a href="https://orcid.org/my-orcid?orcid=0000-0002-4135-6949">
+        <img src="https://img.shields.io/badge/IEEE%20Access-7-0073AE?&style=flat-square" alt="Reviewing Badge" />
+    </a>
+    <br />
     <a href="https://github.com/ElenaRyumina/ElenaRyumina/blob/master/certificates/YCVIU.pdf">
         <img src="https://img.shields.io/badge/Computer%20Vision%20and%20Image%20Understanding-6-8A6734?&style=flat-square" alt="Reviewing Badge" />
     </a>
@@ -81,16 +85,12 @@
         <img src="https://img.shields.io/badge/Pattern%20Recognition%20Letters-3-000000?&style=flat-square" alt="Reviewing Badge" />
     </a>
     <br />
+    <a href="https://orcid.org/my-orcid?orcid=0000-0002-4135-6949">
+        <img src="https://img.shields.io/badge/IEEE%20Transactions%20on%20Affective%20Computing-3-14303E?&style=flat-square" alt="Reviewing Badge" />
+    </a>
+    <br />
     <a href="https://github.com/ElenaRyumina/ElenaRyumina/blob/master/certificates/KNOSYS.pdf">
         <img src="https://img.shields.io/badge/Knowledge--Based%20Systems-2-EFE30E?&style=flat-square" alt="Reviewing Badge" />
-    </a>
-    <br />
-    <a href="https://orcid.org/my-orcid?orcid=0000-0002-4135-6949">
-        <img src="https://img.shields.io/badge/IEEE%20Transactions%20on%20Affective%20Computing-2-14303E?&style=flat-square" alt="Reviewing Badge" />
-    </a>
-    <br />
-    <a href="https://orcid.org/my-orcid?orcid=0000-0002-4135-6949">
-        <img src="https://img.shields.io/badge/IEEE%20Access-3-0073AE?&style=flat-square" alt="Reviewing Badge" />
     </a>
     <br />
     <a href="https://github.com/ElenaRyumina/ElenaRyumina/blob/master/certificates/PAID.pdf">
