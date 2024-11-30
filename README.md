@@ -65,16 +65,16 @@
         <img src="https://img.shields.io/badge/Pattern%20Recognition-6-E87324?&style=flat-square" alt="Reviewing Badge" />
     </a>
     <br />
+    <a href="https://github.com/ElenaRyumina/ElenaRyumina/blob/master/certificates/YCVIU.pdf">
+        <img src="https://img.shields.io/badge/Computer%20Vision%20and%20Image%20Understanding-6-8A6734?&style=flat-square" alt="Reviewing Badge" />
+    </a>
+    <br />
     <a href="https://github.com/ElenaRyumina/ElenaRyumina/blob/master/certificates/NN.pdf">
         <img src="https://img.shields.io/badge/Neural%20Networks-5-1E3887?&style=flat-square" alt="Reviewing Badge" />
     </a>
     <br />
     <a href="https://github.com/ElenaRyumina/ElenaRyumina/blob/master/certificates/NEUCOM.pdf">
         <img src="https://img.shields.io/badge/Neurocomputing-4-EFE30E?&style=flat-square" alt="Reviewing Badge" />
-    </a>
-    <br />
-    <a href="https://github.com/ElenaRyumina/ElenaRyumina/blob/master/certificates/YCVIU.pdf">
-        <img src="https://img.shields.io/badge/Computer%20Vision%20and%20Image%20Understanding-3-8A6734?&style=flat-square" alt="Reviewing Badge" />
     </a>
     <br />
     <a href="https://github.com/ElenaRyumina/ElenaRyumina/blob/master/certificates/PATREC.pdf">
