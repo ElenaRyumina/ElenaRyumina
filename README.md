@@ -94,7 +94,7 @@
     </a>
     <br />
     <a href="https://github.com/ElenaRyumina/ElenaRyumina/blob/master/certificates/PAID.pdf">
-        <img src="https://img.shields.io/badge/Personality%20and%20Individual%20Differences-1-BCDCF1?&style=flat-square" alt="Reviewing Badge" />
+        <img src="https://img.shields.io/badge/Personality%20and%20Individual%20Differences-2-BCDCF1?&style=flat-square" alt="Reviewing Badge" />
     </a>
 </p>
 
