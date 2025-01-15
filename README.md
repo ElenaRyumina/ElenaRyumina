@@ -96,6 +96,10 @@
     <a href="https://github.com/ElenaRyumina/ElenaRyumina/blob/master/certificates/PAID.pdf">
         <img src="https://img.shields.io/badge/Personality%20and%20Individual%20Differences-2-BCDCF1?&style=flat-square" alt="Reviewing Badge" />
     </a>
+    <br />
+    <a href="https://orcid.org/my-orcid?orcid=0000-0002-4135-6949">
+        <img src="https://img.shields.io/badge/IEEE%20Transactions%20on%20Human--Machine%20Systems-1-0073AE?&style=flat-square" alt="Reviewing Badge" />
+    </a>
 </p>
 
 #### Conference Reviewing
