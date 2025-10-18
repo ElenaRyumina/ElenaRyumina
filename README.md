@@ -103,6 +103,10 @@
     <a href="https://orcid.org/my-orcid?orcid=0000-0002-4135-6949">
         <img src="https://img.shields.io/badge/IEEE%20Transactions%20on%20Human--Machine%20Systems-1-0073AE?&style=flat-square" alt="Reviewing Badge" />
     </a>
+    <br />
+    <a href="https://github.com/ElenaRyumina/ElenaRyumina/blob/master/certificates/INFFUS.pdf">
+        <img src="https://img.shields.io/badge/Information%20Fusion-1-505050?&style=flat-square" alt="Reviewing Badge" />
+    </a>
 </p>
 
 #### Conference Reviewing
