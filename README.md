@@ -118,9 +118,6 @@
     <a href="https://neurips.cc/Conferences/2025">
         <img src="http://img.shields.io/badge/NeurIPS-2025-916BA5.svg?&style=flat-square" alt="NeurIPS">
     </a>
-    <a href="https://2025.emnlp.org/">
-        <img src="http://img.shields.io/badge/EMNLP-2025-EE1D25.svg?&style=flat-square" alt="EMNLP">
-    </a>
     <a href="https://specom.inf.u-szeged.hu/">
         <img src="http://img.shields.io/badge/SPECOM-2024%E2%80%9325-FDD944.svg?&style=flat-square" alt="SPECOM">
     </a>
