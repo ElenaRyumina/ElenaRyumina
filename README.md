@@ -1,6 +1,7 @@
-[![ElenaRyumina](https://readme-typing-svg.demolab.com?font=Roboto&duration=1500&pause=100&color=3081F7&vCenter=true&multiline=true&width=435&height=70&lines=Elena+Ryumina;Artificial+Intelligence+Researcher)](https://github.com/ElenaRyumina)
+[![ElenaRyumina](https://readme-typing-svg.demolab.com?font=Roboto&duration=1500&pause=100&color=3081F7&vCenter=true&multiline=true&width=435&height=70&lines=Dr.+Elena+Ryumina;Artificial+Intelligence+Researcher)](https://github.com/ElenaRyumina)
 
-<div>
+<p>
+
 <a href="https://www.webofscience.com/wos/author/record/ABY-9103-2022" style="margin-right: 6px;">
     <img src="https://img.shields.io/badge/Web%20of%20Science-5D34BF??&style=flat-square&logo=clarivate&logoColor=white" alt="" />
 </a>
@@ -23,11 +24,9 @@
 <br />
 <a href="https://github.com/ElenaRyumina">
     <img src="https://github-stats-alpha.vercel.app/api?username=ElenaRyumina&cc=3081F7&tc=FFFFFF&ic=FFFFFF&bc=FFFFFF" alt="" />
-</div>
-
-<div>
+<br />
 <img src="https://komarev.com/ghpvc/?username=ElenaRyumina&style=flat-square" alt="" />
-</div>
+</p>
 
 ---
 
@@ -36,6 +35,7 @@
 #### Journals
 
 - ``Expert Systems with Applications 2026`` [Audio-Visual Occlusion-Robust Gender Recognition and Age Estimation Approach based on Multi-Task Cross-Modal Attention](https://www.sciencedirect.com/science/article/pii/S0957417425010954), Maxim Markitantov, **Elena Ryumina**, and Alexey Karpov
+- ``Big Data and Cognitive Computing 2025`` [Cross-Lingual Bimodal Emotion Recognition with LLM-based Label Smoothing](https://www.mdpi.com/2504-2289/9/11/285), **Elena Ryumina**, Alexandr Axyonov, Timur Abdulkadirov, Darya Koryakovskaya, and Dmitry Ryumin
 - ``Pattern Recognition Letters 2025`` [Multi-Corpus Emotion Recognition Method based on Cross-Modal Gated Attention](https://www.sciencedirect.com/science/article/pii/S0167865525000662), **Elena Ryumina**, Dmitry Ryumin, Alexandr Axyonov, Denis Ivanko and Alexey Karpov
 - ``Pattern Recognition Letters 2024`` [Gated Siamese Fusion Network based on Multimodal Deep and Hand-Crafted Features for Personality Traits Assessment](https://www.sciencedirect.com/science/article/pii/S0167865524002071), **Elena Ryumina**,  Maxim Markitantov, Dmitry Ryumin, and Alexey Karpov [![GitHub](https://img.shields.io/github/stars/aimclub/OCEANAI?style=flat)](https://github.com/aimclub/OCEANAI) [![App](https://img.shields.io/badge/🤗-DEMO--OCEANAI-FFD21F.svg)](https://huggingface.co/spaces/ElenaRyumina/OCEANAI)
 - ``Expert Systems with Applications 2024`` [Audio-Visual Speech Recognition based on Regulated Transformer and Spatio-Temporal Fusion Strategy for Driver Assistive Systems](https://www.sciencedirect.com/science/article/pii/S095741742401025X), Dmitry Ryumin, Alexandr Axyonov, **Elena Ryumina**, Denis Ivanko, Alexey Kashevnik, and Alexey Karpov
