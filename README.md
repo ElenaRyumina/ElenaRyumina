@@ -34,6 +34,8 @@
 
 #### Journals
 
+- ``Machine Learning and Knowledge Extraction 2026`` [SSL-MEPR: A Semi-Supervised Multi-Task Cross-Domain Learning Framework for Multimodal Emotion and Personality Recognition](https://www.mdpi.com/2504-4990/8/3/56), **Elena Ryumina**, Alexandr Axyonov, Darya Koryakovskaya, Timur Abdulkadirov, Angelina Egorova, Sergey Fedchin, Alexander Zaburdaev, and Dmitry Ryumin
+- ``Information Fusion 2026`` [Multi-Lingual Approach for Multi-Modal Emotion and Sentiment Recognition based on Triple Fusion](https://www.sciencedirect.com/science/article/pii/S1566253526000862), Maxim Markitantov, **Elena Ryumina**, Anastasia Dvoynikova, and Alexey Karpov
 - ``Expert Systems with Applications 2026`` [Audio-Visual Occlusion-Robust Gender Recognition and Age Estimation Approach based on Multi-Task Cross-Modal Attention](https://www.sciencedirect.com/science/article/pii/S0957417425010954), Maxim Markitantov, **Elena Ryumina**, and Alexey Karpov
 - ``Big Data and Cognitive Computing 2025`` [Cross-Lingual Bimodal Emotion Recognition with LLM-based Label Smoothing](https://www.mdpi.com/2504-2289/9/11/285), **Elena Ryumina**, Alexandr Axyonov, Timur Abdulkadirov, Darya Koryakovskaya, and Dmitry Ryumin
 - ``Pattern Recognition Letters 2025`` [Multi-Corpus Emotion Recognition Method based on Cross-Modal Gated Attention](https://www.sciencedirect.com/science/article/pii/S0167865525000662), **Elena Ryumina**, Dmitry Ryumin, Alexandr Axyonov, Denis Ivanko and Alexey Karpov
@@ -64,49 +66,41 @@
     <a href="https://github.com/ElenaRyumina/ElenaRyumina/blob/master/certificates/ESWA.pdf">
         <img src="https://img.shields.io/badge/Expert%20Systems%20with%20Applications-21-045877?&style=flat-square" alt="Reviewing Badge" />
     </a>
-    <br />
     <a href="https://github.com/ElenaRyumina/ElenaRyumina/blob/master/certificates/PR.pdf">
         <img src="https://img.shields.io/badge/Pattern%20Recognition-8-E87324?&style=flat-square" alt="Reviewing Badge" />
     </a>
-    <br />
+    <a href="https://orcid.org/my-orcid?orcid=0000-0002-4135-6949">
+        <img src="https://img.shields.io/badge/IEEE%20Transactions%20on%20Affective%20Computing-8-14303E?&style=flat-square" alt="Reviewing Badge" />
+    </a>
     <a href="https://orcid.org/my-orcid?orcid=0000-0002-4135-6949">
         <img src="https://img.shields.io/badge/IEEE%20Access-7-0073AE?&style=flat-square" alt="Reviewing Badge" />
     </a>
-    <br />
     <a href="https://github.com/ElenaRyumina/ElenaRyumina/blob/master/certificates/YCVIU.pdf">
         <img src="https://img.shields.io/badge/Computer%20Vision%20and%20Image%20Understanding-6-8A6734?&style=flat-square" alt="Reviewing Badge" />
     </a>
-    <br />
     <a href="https://github.com/ElenaRyumina/ElenaRyumina/blob/master/certificates/NN.pdf">
         <img src="https://img.shields.io/badge/Neural%20Networks-6-1E3887?&style=flat-square" alt="Reviewing Badge" />
     </a>
-    <br />
     <a href="https://github.com/ElenaRyumina/ElenaRyumina/blob/master/certificates/NEUCOM.pdf">
         <img src="https://img.shields.io/badge/Neurocomputing-5-EFE30E?&style=flat-square" alt="Reviewing Badge" />
     </a>
-    <br />
+    <a href="https://github.com/ElenaRyumina/ElenaRyumina/blob/master/certificates/INFFUS.pdf">
+        <img src="https://img.shields.io/badge/Information%20Fusion-5-505050?&style=flat-square" alt="Reviewing Badge" />
+    </a>
     <a href="https://github.com/ElenaRyumina/ElenaRyumina/blob/master/certificates/PATREC.pdf">
         <img src="https://img.shields.io/badge/Pattern%20Recognition%20Letters-3-000000?&style=flat-square" alt="Reviewing Badge" />
     </a>
-    <br />
-    <a href="https://orcid.org/my-orcid?orcid=0000-0002-4135-6949">
-        <img src="https://img.shields.io/badge/IEEE%20Transactions%20on%20Affective%20Computing-3-14303E?&style=flat-square" alt="Reviewing Badge" />
+    <a href="https://github.com/ElenaRyumina/ElenaRyumina/blob/master/certificates/ACTPSY.pdf">
+        <img src="https://img.shields.io/badge/Acta%20Psychologica-3-FB692C?&style=flat-square" alt="Reviewing Badge" />
     </a>
-    <br />
     <a href="https://github.com/ElenaRyumina/ElenaRyumina/blob/master/certificates/KNOSYS.pdf">
         <img src="https://img.shields.io/badge/Knowledge--Based%20Systems-2-EFE30E?&style=flat-square" alt="Reviewing Badge" />
     </a>
-    <br />
     <a href="https://github.com/ElenaRyumina/ElenaRyumina/blob/master/certificates/PAID.pdf">
         <img src="https://img.shields.io/badge/Personality%20and%20Individual%20Differences-2-BCDCF1?&style=flat-square" alt="Reviewing Badge" />
     </a>
-    <br />
     <a href="https://orcid.org/my-orcid?orcid=0000-0002-4135-6949">
         <img src="https://img.shields.io/badge/IEEE%20Transactions%20on%20Human--Machine%20Systems-1-0073AE?&style=flat-square" alt="Reviewing Badge" />
-    </a>
-    <br />
-    <a href="https://github.com/ElenaRyumina/ElenaRyumina/blob/master/certificates/INFFUS.pdf">
-        <img src="https://img.shields.io/badge/Information%20Fusion-1-505050?&style=flat-square" alt="Reviewing Badge" />
     </a>
 </p>
 
@@ -115,6 +109,9 @@
 <p>
     <a href="https://iclr.cc/Conferences/2026">
         <img src="http://img.shields.io/badge/ICLR-2026-212529.svg?&style=flat-square" alt="ICLR">
+    </a>
+    <a href="https://2026.aclweb.org">
+        <img src="http://img.shields.io/badge/ACL-2026-EE1D25.svg?&style=flat-square" alt="ACL">
     </a>
     <a href="https://neurips.cc/Conferences/2025">
         <img src="http://img.shields.io/badge/NeurIPS-2025-916BA5.svg?&style=flat-square" alt="NeurIPS">
