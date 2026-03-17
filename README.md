@@ -34,6 +34,7 @@
 
 #### Journals
 
+- ``Big Data and Cognitive Computing 2026`` [DEPART: Multi-Task Interpretable Depression and Parkinson's Disease Detection from In-the-Wild Video Data](https://www.mdpi.com/2504-2289/10/3/89), **Elena Ryumina**, Alexandr Axyonov, Mikhail Dolgushin, Dmitry Ryumin, and Alexey Karpov
 - ``Machine Learning and Knowledge Extraction 2026`` [SSL-MEPR: A Semi-Supervised Multi-Task Cross-Domain Learning Framework for Multimodal Emotion and Personality Recognition](https://www.mdpi.com/2504-4990/8/3/56), **Elena Ryumina**, Alexandr Axyonov, Darya Koryakovskaya, Timur Abdulkadirov, Angelina Egorova, Sergey Fedchin, Alexander Zaburdaev, and Dmitry Ryumin
 - ``Information Fusion 2026`` [Multi-Lingual Approach for Multi-Modal Emotion and Sentiment Recognition based on Triple Fusion](https://www.sciencedirect.com/science/article/pii/S1566253526000862), Maxim Markitantov, **Elena Ryumina**, Anastasia Dvoynikova, and Alexey Karpov
 - ``Expert Systems with Applications 2026`` [Audio-Visual Occlusion-Robust Gender Recognition and Age Estimation Approach based on Multi-Task Cross-Modal Attention](https://www.sciencedirect.com/science/article/pii/S0957417425010954), Maxim Markitantov, **Elena Ryumina**, and Alexey Karpov
