@@ -70,14 +70,14 @@
     <a href="https://github.com/ElenaRyumina/ElenaRyumina/blob/master/certificates/ESWA.pdf">
         <img src="https://img.shields.io/badge/Expert%20Systems%20with%20Applications-21-045877?&style=flat-square" alt="Reviewing Badge" />
     </a>
+    <a href="https://orcid.org/my-orcid?orcid=0000-0002-4135-6949">
+        <img src="https://img.shields.io/badge/IEEE%20Transactions%20on%20Affective%20Computing-11-14303E?&style=flat-square" alt="Reviewing Badge" />
+    </a>
     <a href="https://github.com/ElenaRyumina/ElenaRyumina/blob/master/certificates/PR.pdf">
         <img src="https://img.shields.io/badge/Pattern%20Recognition-8-E87324?&style=flat-square" alt="Reviewing Badge" />
     </a>
     <a href="https://orcid.org/my-orcid?orcid=0000-0002-4135-6949">
-        <img src="https://img.shields.io/badge/IEEE%20Transactions%20on%20Affective%20Computing-8-14303E?&style=flat-square" alt="Reviewing Badge" />
-    </a>
-    <a href="https://orcid.org/my-orcid?orcid=0000-0002-4135-6949">
-        <img src="https://img.shields.io/badge/IEEE%20Access-7-0073AE?&style=flat-square" alt="Reviewing Badge" />
+        <img src="https://img.shields.io/badge/IEEE%20Access-8-0073AE?&style=flat-square" alt="Reviewing Badge" />
     </a>
     <a href="https://github.com/ElenaRyumina/ElenaRyumina/blob/master/certificates/YCVIU.pdf">
         <img src="https://img.shields.io/badge/Computer%20Vision%20and%20Image%20Understanding-6-8A6734?&style=flat-square" alt="Reviewing Badge" />
@@ -104,7 +104,7 @@
         <img src="https://img.shields.io/badge/Personality%20and%20Individual%20Differences-2-BCDCF1?&style=flat-square" alt="Reviewing Badge" />
     </a>
     <a href="https://orcid.org/my-orcid?orcid=0000-0002-4135-6949">
-        <img src="https://img.shields.io/badge/IEEE%20Transactions%20on%20Human--Machine%20Systems-1-0073AE?&style=flat-square" alt="Reviewing Badge" />
+        <img src="https://img.shields.io/badge/IEEE%20Transactions%20on%20Human--Machine%20Systems-2-0073AE?&style=flat-square" alt="Reviewing Badge" />
     </a>
 </p>
 
@@ -117,11 +117,14 @@
     <a href="https://2026.aclweb.org">
         <img src="http://img.shields.io/badge/ACL-2026-EE1D25.svg?&style=flat-square" alt="ACL">
     </a>
+    <a href="https://2026.emnlp.org/">
+        <img src="http://img.shields.io/badge/EMNLP-2026-EE1D25.svg?&style=flat-square" alt="EMNLP">
+    </a>
     <a href="https://neurips.cc/Conferences/2025">
         <img src="http://img.shields.io/badge/NeurIPS-2025-916BA5.svg?&style=flat-square" alt="NeurIPS">
     </a>
     <a href="https://specom.inf.u-szeged.hu/">
-        <img src="http://img.shields.io/badge/SPECOM-2024%E2%80%9325-FDD944.svg?&style=flat-square" alt="SPECOM">
+        <img src="http://img.shields.io/badge/SPECOM-2024%E2%80%9326-FDD944.svg?&style=flat-square" alt="SPECOM">
     </a>
 </p>
 
