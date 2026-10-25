@@ -34,6 +34,9 @@
 
 #### Journals
 
+- ``Expert Systems with Applications 2026`` [PULSE: Psychological Characteristics Unified Learning via Speech-based Estimation](https://www.sciencedirect.com/science/article/pii/S0957417426036936), Timur Abdulkadirov, **Elena Ryumina**, Dmitry Ryumin, and Alexey Karpov
+- ``IEEE Access 2026`` [MM-PSYCHE: Multimodal Multitask Psychological Characteristic Estimation through Cross-Domain Semi-Supervised Learning](https://ieeexplore.ieee.org/abstract/document/11653238), **Elena Ryumina**, Alexandr Axyonov, Darya Koryakovskaya, Timur Abdulkadirov, Angelina Egorova, Sergey Fedchin, Alexander Zaburdaev, Iana Salova, Andrey Savchenko, and Dmitry Ryumin [![GitHub](https://img.shields.io/github/stars/LEYA-HSE/MM-PSYCHE?style=flat)](https://github.com/LEYA-HSE/MM-PSYCHE)
+- ``Big Data and Cognitive Computing 2026`` [ExPAM: Explainable Personality Assessment Method Using Heterogeneous Linguistic Features and Off-the-Shelf LLMs](https://www.mdpi.com/2504-2289/10/8/254), **Elena Ryumina**, Dmitry Ryumin, Maxim Markitantov, and Alexey Karpov [![GitHub](https://img.shields.io/github/stars/SMIL-SPCRAS/ExPAM?style=flat)](https://github.com/SMIL-SPCRAS/ExPAM)
 - ``Multimodal Technologies and Interaction 2026`` [MAVAGEN: Multimodal Avatar Generation Framework for Personalized Human-Computer Interaction](https://www.mdpi.com/2414-4088/10/5/55), Alexandr Axyonov, **Elena Ryumina**, Dmitry Ryumin, and Alexey Karpov
 - ``Big Data and Cognitive Computing 2026`` [DEPART: Multi-Task Interpretable Depression and Parkinson's Disease Detection from In-the-Wild Video Data](https://www.mdpi.com/2504-2289/10/3/89), **Elena Ryumina**, Alexandr Axyonov, Mikhail Dolgushin, Dmitry Ryumin, and Alexey Karpov
 - ``Machine Learning and Knowledge Extraction 2026`` [SSL-MEPR: A Semi-Supervised Multi-Task Cross-Domain Learning Framework for Multimodal Emotion and Personality Recognition](https://www.mdpi.com/2504-4990/8/3/56), **Elena Ryumina**, Alexandr Axyonov, Darya Koryakovskaya, Timur Abdulkadirov, Angelina Egorova, Sergey Fedchin, Alexander Zaburdaev, and Dmitry Ryumin
@@ -49,6 +52,7 @@
 
 #### Conferences
 
+- ``EMNLP 2026`` [TACME: Task-Aware Cross-Modal Experts for Disjoint-Corpus Multimodal Behavioral Understanding](https://aclanthology.org/2026.findings-emnlp.957/), **Elena Ryumina**, Alexandr Axyonov, and Dmitry Ryumin [![GitHub](https://img.shields.io/github/stars/LEYA-HSE/TACME?style=flat)](https://github.com/LEYA-HSE/TACME)
 - ``CVPRW 2026`` [Ensemble-based Prototype-Augmented Multimodal Fusion for Ambivalence/Hesitancy Recognition](https://openaccess.thecvf.com/content/CVPR2026W/ABAW/html/Ryumina_Ensemble-based_Prototype-Augmented_Multimodal_Fusion_for_AmbivalenceHesitancy_Recognition_CVPRW_2026_paper.html), **Elena Ryumina**, Alexandr Axyonov, Dmitry Sysoev, Timur Abdulkadirov, Kirill Almetov, Yulia Morozova, and Dmitry Ryumin [![GitHub](https://img.shields.io/github/stars/LEYA-HSE/ABAW10-BAH?style=flat)](https://github.com/LEYA-HSE/ABAW10-BAH)
 - ``CVPRW 2026`` [From Faces to Behavior Analysis: Adaptive Multimodal Fusion for Valence-Arousal Estimation in-the-Wild](https://openaccess.thecvf.com/content/CVPR2026W/ABAW/html/Ryumina_From_Faces_to_Behavior_Analysis_Adaptive_Multimodal_Fusion_for_Valence-Arousal_CVPRW_2026_paper.html), **Elena Ryumina**, Maxim Markitantov, Alexandr Axyonov, Dmitry Ryumin, Mikhail Dolgushin, Denis Dresvyanskiy, and Alexey Karpov [![GitHub](https://img.shields.io/github/stars/SMIL-SPCRAS/CVPRW-26?style=flat)](https://github.com/SMIL-SPCRAS/CVPRW-26)
 - ``ICCVW 2025`` [Zero-Shot Multimodal Compound Expression Recognition Approach using Off-the-Shelf Large Visual-Language Models](https://openaccess.thecvf.com/content/ICCV2025W/ABAW/html/Ryumina_Zero-Shot_Multimodal_Compound_Expression_Recognition_Approach_using_Off-the-Shelf_Large_Visual-Language_ICCVW_2025_paper.html), **Elena Ryumina**, Maxim Markitantov, Alexandr Axyonov, Dmitry Ryumin, Mikhail Dolgushin, and Alexey Karpov [![GitHub](https://img.shields.io/github/stars/SMIL-SPCRAS/ICCVW_25?style=flat)](https://github.com/SMIL-SPCRAS/ICCVW_25)
@@ -68,7 +72,7 @@
 
 <p>
     <a href="https://github.com/ElenaRyumina/ElenaRyumina/blob/master/certificates/ESWA.pdf">
-        <img src="https://img.shields.io/badge/Expert%20Systems%20with%20Applications-21-045877?&style=flat-square" alt="Reviewing Badge" />
+        <img src="https://img.shields.io/badge/Expert%20Systems%20with%20Applications-22-045877?&style=flat-square" alt="Reviewing Badge" />
     </a>
     <a href="https://orcid.org/my-orcid?orcid=0000-0002-4135-6949">
         <img src="https://img.shields.io/badge/IEEE%20Transactions%20on%20Affective%20Computing-11-14303E?&style=flat-square" alt="Reviewing Badge" />
@@ -80,16 +84,16 @@
         <img src="https://img.shields.io/badge/IEEE%20Access-8-0073AE?&style=flat-square" alt="Reviewing Badge" />
     </a>
     <a href="https://github.com/ElenaRyumina/ElenaRyumina/blob/master/certificates/YCVIU.pdf">
-        <img src="https://img.shields.io/badge/Computer%20Vision%20and%20Image%20Understanding-6-8A6734?&style=flat-square" alt="Reviewing Badge" />
+        <img src="https://img.shields.io/badge/Computer%20Vision%20and%20Image%20Understanding-8-8A6734?&style=flat-square" alt="Reviewing Badge" />
     </a>
     <a href="https://github.com/ElenaRyumina/ElenaRyumina/blob/master/certificates/NN.pdf">
-        <img src="https://img.shields.io/badge/Neural%20Networks-6-1E3887?&style=flat-square" alt="Reviewing Badge" />
+        <img src="https://img.shields.io/badge/Neural%20Networks-7-1E3887?&style=flat-square" alt="Reviewing Badge" />
+    </a>
+    <a href="https://github.com/ElenaRyumina/ElenaRyumina/blob/master/certificates/INFFUS.pdf">
+        <img src="https://img.shields.io/badge/Information%20Fusion-6-505050?&style=flat-square" alt="Reviewing Badge" />
     </a>
     <a href="https://github.com/ElenaRyumina/ElenaRyumina/blob/master/certificates/NEUCOM.pdf">
         <img src="https://img.shields.io/badge/Neurocomputing-5-EFE30E?&style=flat-square" alt="Reviewing Badge" />
-    </a>
-    <a href="https://github.com/ElenaRyumina/ElenaRyumina/blob/master/certificates/INFFUS.pdf">
-        <img src="https://img.shields.io/badge/Information%20Fusion-5-505050?&style=flat-square" alt="Reviewing Badge" />
     </a>
     <a href="https://github.com/ElenaRyumina/ElenaRyumina/blob/master/certificates/PATREC.pdf">
         <img src="https://img.shields.io/badge/Pattern%20Recognition%20Letters-3-000000?&style=flat-square" alt="Reviewing Badge" />
@@ -111,8 +115,11 @@
 #### Conference Reviewing
 
 <p>
-    <a href="https://iclr.cc/Conferences/2026">
-        <img src="http://img.shields.io/badge/ICLR-2026-212529.svg?&style=flat-square" alt="ICLR">
+    <a href="https://iclr.cc/Conferences/2027">
+        <img src="http://img.shields.io/badge/ICLR-2026%E2%80%9327-212529.svg?&style=flat-square" alt="ICLR">
+    </a>
+    <a href="https://aaai.org/conference/aaai/aaai-27/">
+        <img src="http://img.shields.io/badge/AAAI-2027-013973.svg?&style=flat-square" alt="AAAI">
     </a>
     <a href="https://2026.aclweb.org">
         <img src="http://img.shields.io/badge/ACL-2026-EE1D25.svg?&style=flat-square" alt="ACL">
